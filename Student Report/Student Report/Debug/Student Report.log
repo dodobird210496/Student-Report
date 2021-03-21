@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Hp 840G4\source\repos\Student Report\Student Report\Source.cpp(10,8): warning C4101: 'marks': unreferenced local variable
+  Student Report.vcxproj -> C:\Users\Hp 840G4\source\repos\Student Report\Debug\Student Report.exe

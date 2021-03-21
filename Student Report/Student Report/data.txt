@@ -1,0 +1,7 @@
+Name of the studentJohn Adam
+Roll Number8
+English :99
+Maths :1
+Urdu :98
+Computer :86
+Chemistry :55
